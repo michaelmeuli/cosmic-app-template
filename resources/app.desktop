@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name={{ project-name | title_case }}
+Comment={{ description }}
+Type=Application
+Icon={{ appid }}
+Exec=cosmic-app-template %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+MimeType=
